@@ -19,8 +19,9 @@ function caesarCipher(string, step) {
 	for (let i = 0; i <= string.length - 1; i++) {
 		let idx = letters.indexOf(string[i]);
 		if (idx == -1) {
+			//indexOf always gives -1 index value for special characters and symbol
 			result += string[i];
-			continue;
+			continue; //this will terminate the loop for its current iteration blocking the below code
 		}
 		let new_letter = letters[(idx + step) % 26];
 		result += new_letter;
