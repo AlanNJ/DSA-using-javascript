@@ -15,12 +15,7 @@ Basically c++/java are considered good for manipulating with datum and implement
 But we are using `JavaScript` as it is also one of the powerful language out there which can do almost every thing as others provides. 
 
 
-## What will be the folder structure ?
 
-For every specific topic,there will be a folder named with the topic,inside that there will be another folder consisting one js file and one readme file which will elaborate how we solved the perticular problem,its time and space complexity and also there will be links which will provide good documentation about the specific problem if there exists.
-## What will be the folder structure ?
-
-For every specific topic,there will be a folder named with the topic,inside that there will be another folder consisting one js file and one readme file which will elaborate how we solved the perticular problem,its time and space complexity and also there will be links which will provide good documentation about the specific problem if there exists.
 ## What will be the folder structure ?
 
 For every specific topic,there will be a folder named with the topic,inside that there will be another folder consisting one js file and one readme file which will elaborate how we solved the perticular problem,its time and space complexity and also there will be links which will provide good documentation about the specific problem if there exists.
