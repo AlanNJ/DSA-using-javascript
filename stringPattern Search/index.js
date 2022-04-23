@@ -1,3 +1,5 @@
+//PRoblem: Find the number of occourance of a given pattern in a string.
+
 function findChar(string, pattern) {
 	let count = 0;
 	for (i = 0; i < string.length; i++) {
