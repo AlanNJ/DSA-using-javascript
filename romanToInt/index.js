@@ -70,7 +70,7 @@ var romanToInt = function (s) {
 	}
 	return num;
 };
-
+romanToInt("MCMXIIVLLC");
 /*
 time complexity: O(n)
 space complexity: O(2) = O(1)
