@@ -65,7 +65,7 @@ var romanToInt = function (s) {
 			num += 500;
 			i++;
 		} else {
-			num += roman[s[i]];
+			num += roman[s[i]]; //if neither of the condition satisfies,it picks the value for that char from I and add its respective value to the number variable.
 		}
 	}
 	return num;
