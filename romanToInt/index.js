@@ -70,3 +70,9 @@ var romanToInt = function (s) {
 	}
 	return num;
 };
+
+/*
+time complexity: O(n)
+space complexity: O(2) = O(1)
+
+*/
