@@ -2,7 +2,7 @@
 
 While talking about programming,the most important aspect comes in mind is logic building.
 Coding is more about thinking then writting fancy paragraphs with different characters and symbols.
-So to improve every programmers coding skills and make inhance their logical thinking to the next level.
+So to improve every programmers coding skills and to inhance their logical thinking to the next level,problem solving knowledge is mandatory as programming is more about thinking then typing.
 This repository is created with the purpose of understanding different data structures and algorithms in a simpler way.
 
 ## What are we using ?
