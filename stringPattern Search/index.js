@@ -16,3 +16,10 @@ function findChar(string, pattern) {
 	console.log(count);
 }
 findChar("alaalan", "ala");
+
+/*
+time complexity: O(n^2)
+space complexity: O(2) = O(1)
+
+
+*/
