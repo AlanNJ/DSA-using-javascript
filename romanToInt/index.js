@@ -1,4 +1,7 @@
+// Problem: Convert the given roman number into a integer.
+
 var romanToInt = function (s) {
+	//creating an object so that we can know what character holds what value distinctively.
 	let roman = {
 		I: 1,
 		V: 5,
@@ -11,9 +14,11 @@ var romanToInt = function (s) {
 	var num = 0;
 
 	for (i = 0; i <= s.length - 1; i++) {
+		//iterating through the given string
 		if (s[i] == "I" && s[i + 1] == "V") {
+			//checking if the second character is greater then first
 			num += 4;
-			i++;
+			i++; //if the condition satisfies,it will increment the next index 1 step up further
 		} else if (s[i] == "I" && s[i + 1] == "X") {
 			num += 9;
 			i++;
