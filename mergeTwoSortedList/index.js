@@ -27,3 +27,10 @@ function mergeTwo(list1, list2) {
 let arr1 = [1, 2, 3, 4, 5, 6];
 let arr2 = [4, 5, 6, 7, 8, 9];
 console.log(mergeTwo(arr1, arr2));
+
+/*
+
+ time complexity:O(n)
+ space complexity: o(2) = O(1)
+ 
+*/
